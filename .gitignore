@@ -1,0 +1,14 @@
+# IDE files
+.vscode/
+.idea/
+*.iml
+
+# Compiled files
+*.class
+*.pyc
+__pycache__/
+
+# Dependencies
+node_modules/
+venv/
+```
